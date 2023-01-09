@@ -4,6 +4,6 @@ public class DebugBook{
       pages = pgs;
    }
    public int getPages(){
-      return pgs;
+      return pages;
    }
 }

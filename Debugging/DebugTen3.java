@@ -12,3 +12,4 @@ public class DebugTen3{
       DebugPhoneBook pb = new DebugPhoneBook(area, pages);
       pb.display();
    }
+}

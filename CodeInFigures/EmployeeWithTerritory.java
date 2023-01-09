@@ -1,12 +1,9 @@
-public class EmployeeWithTerritory extends Employee
-{
+public class EmployeeWithTerritory extends Employee{
    private int territory;
-   public int getTerritory()
-   {
+   public int getTerritory(){
       return territory;
    }
-   public void setTerritory(int terr)
-   {
+   public void setTerritory(int terr){
       territory = terr;
    }
 }

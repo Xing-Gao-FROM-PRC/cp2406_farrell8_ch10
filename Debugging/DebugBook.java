@@ -1,12 +1,9 @@
-public class DebugBook
-{
+public class DebugBook{
    protected int pages;
-   public void DebugBook(int pgs)
-   {
+   public void DebugBook(int pgs){
       pages = pgs;
    }
-   public int getPages()
-   {
+   public int getPages(){
       return pgs;
    }
 }
